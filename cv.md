@@ -1,5 +1,5 @@
 # Who am I?  
-__Anghelika Smirnova__  
+__Anjelika Smirnova__  
 # How to contact me?  
 * Vk: https://vk.com/id236178825  
 * Telegram: @anzhelika_smirnova  
