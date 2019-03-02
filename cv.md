@@ -11,6 +11,6 @@ Intermediate knowledge of C++, HTML,CSS,JS.
 # Experience   
 Labs in University & my enter tasks.
 # Education  
-Study in BSUIR, watching a lot of online lectures (for instance MIT OpenCourseWare, SimpleCode) :alien: .  
+Study in BSUIR, watching a lot of online lectures (for instance MIT OpenCourseWare, SimpleCode) :alien:   
 # Englizh lyevel  
 Approximately B1.
