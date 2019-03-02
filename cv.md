@@ -10,6 +10,6 @@ Intermediate knowledge of C++, HTML,CSS,JS.
 # Experience   
 Labs in University & my enter tasks.
 # Education  
-Study in BSUIR, watching a lot of online lectures :smile: .
+Study in BSUIR, watching a lot of online lectures :alien: .
 # Englizh lyevel  
 My level is aproximatly B1
